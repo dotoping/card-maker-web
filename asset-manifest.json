@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/card-maker-web/static/css/main.c8ca60a8.chunk.css",
-    "main.js": "/card-maker-web/static/js/main.74098632.chunk.js",
-    "main.js.map": "/card-maker-web/static/js/main.74098632.chunk.js.map",
+    "main.js": "/card-maker-web/static/js/main.a97f9c82.chunk.js",
+    "main.js.map": "/card-maker-web/static/js/main.a97f9c82.chunk.js.map",
     "runtime-main.js": "/card-maker-web/static/js/runtime-main.cec7c2bd.js",
     "runtime-main.js.map": "/card-maker-web/static/js/runtime-main.cec7c2bd.js.map",
-    "static/js/2.361d4aa9.chunk.js": "/card-maker-web/static/js/2.361d4aa9.chunk.js",
-    "static/js/2.361d4aa9.chunk.js.map": "/card-maker-web/static/js/2.361d4aa9.chunk.js.map",
+    "static/js/2.125a0a44.chunk.js": "/card-maker-web/static/js/2.125a0a44.chunk.js",
+    "static/js/2.125a0a44.chunk.js.map": "/card-maker-web/static/js/2.125a0a44.chunk.js.map",
     "index.html": "/card-maker-web/index.html",
-    "precache-manifest.211255e163db34f2de3126fccfdb37fb.js": "/card-maker-web/precache-manifest.211255e163db34f2de3126fccfdb37fb.js",
+    "precache-manifest.340f8c3684414d285254a046712f5462.js": "/card-maker-web/precache-manifest.340f8c3684414d285254a046712f5462.js",
     "service-worker.js": "/card-maker-web/service-worker.js",
     "static/css/main.c8ca60a8.chunk.css.map": "/card-maker-web/static/css/main.c8ca60a8.chunk.css.map",
-    "static/js/2.361d4aa9.chunk.js.LICENSE.txt": "/card-maker-web/static/js/2.361d4aa9.chunk.js.LICENSE.txt"
+    "static/js/2.125a0a44.chunk.js.LICENSE.txt": "/card-maker-web/static/js/2.125a0a44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cec7c2bd.js",
-    "static/js/2.361d4aa9.chunk.js",
+    "static/js/2.125a0a44.chunk.js",
     "static/css/main.c8ca60a8.chunk.css",
-    "static/js/main.74098632.chunk.js"
+    "static/js/main.a97f9c82.chunk.js"
   ]
 }
